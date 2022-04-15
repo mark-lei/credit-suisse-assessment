@@ -1,7 +1,7 @@
 # credit-suisse-assessment
 mini-project as part of CS candidate appraisal
 
-to build & run Clone the repo (https://github.com/mark-lei/credit-suisse-assessment.git) in Visual Studio then right-click select the csproj file and "set as startup" to enable Build, Run ...
+to build & run Clone the repo (https://github.com/mark-lei/cs-assessment.git) in Visual Studio then right-click select the csproj file and "set as startup" to enable Build, Run ...
 
 ## notes ##
 
