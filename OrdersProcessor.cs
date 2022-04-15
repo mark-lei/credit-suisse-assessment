@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace CreditSuise_Assessment
+namespace CreditSuisse_Assessment
 {
     /// <summary>
     /// orchestration class for retrieving prices and checking orders to purchase

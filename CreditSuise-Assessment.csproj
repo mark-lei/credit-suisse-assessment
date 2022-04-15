@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{1557580D-D7B9-4EB1-B710-FCD4C89A5A56}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CreditSuise_Assessment</RootNamespace>
-    <AssemblyName>CreditSuise-Assessment</AssemblyName>
+    <RootNamespace>CreditSuisse_Assessment</RootNamespace>
+    <AssemblyName>CreditSuisse-Assessment</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

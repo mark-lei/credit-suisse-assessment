@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace CreditSuise_Assessment
+namespace CreditSuisse_Assessment
 {
     /// <summary>
     /// Win32 entry point container

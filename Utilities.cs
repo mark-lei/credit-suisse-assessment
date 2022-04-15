@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CreditSuise_Assessment
+namespace CreditSuisse_Assessment
 {
     /// <summary>
     /// Utility methods for source data creation and console logging

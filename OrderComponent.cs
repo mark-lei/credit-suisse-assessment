@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CreditSuise_Assessment
+namespace CreditSuisse_Assessment
 {
     /// <summary>
     /// Order processing component
